@@ -1,0 +1,7 @@
+project_id = "ftmkxkqgaymhfznhzqwh"
+
+[functions.verify-and-log]
+verify_jwt = false
+
+[functions.public-stats]
+verify_jwt = false
